@@ -35,7 +35,7 @@ This Power BI report visualizes Amazon eCommerce data to highlight key sales tre
 
 ---
 
-📎 [View PDF Snapshot of Dashboard](./Amazon%20Sales%20Report..pdf)
+📎 [View PDF Snapshot of Dashboard]([./Amazon%20Sales%20Report..pdf](https://github.com/iamrubenm/Amazon-Sales-Analysis-Using-Power-BI/blob/main/Amazon%20Sales%20Report..pdf)
 
 For feedback or collaboration, feel free to connect on [LinkedIn](https://www.linkedin.com/in/rubenmittapelli/)!
 
